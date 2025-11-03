@@ -1,0 +1,20 @@
+{
+    "1001": {
+        "name": "Vishwendra",
+        "pin": "1234",
+        "balance": 100000.0,
+        "transactions": [
+            {
+                "type": "Deposit",
+                "amount": 100000.0,
+                "time": "2025-11-03 21:06:09.528386"
+            }
+        ]
+    },
+    "1002": {
+        "name": "Vishu",
+        "pin": "1111",
+        "balance": 0.0,
+        "transactions": []
+    }
+}
